@@ -1,3 +1,1 @@
 # TNfront
-
-gredicer add  text.
