@@ -1,0 +1,12 @@
+.idea
+.vscode
+node_modules
+pnpm-lock.yaml
+*.log*
+.nuxt
+.nitro
+.cache
+.output
+.env
+dist
+.DS_Store
